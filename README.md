@@ -7,10 +7,15 @@ The dashboard provides insights into Netflix's massive content library, allowing
 ## Key Performance Indicators (KPIs)
 
 The dashboard includes high-level metrics displayed as KPI cards:
+
 •	Total Shows: The total number of titles available on Netflix.
+
 •	Total Directors: Count of unique directors in the dataset.
+
 •	Total Genres: Number of different genres represented.
+
 •	Total Locations: Number of filming or production locations.
+
 •	Start Year & End Year: Range of release years for Netflix content.
 
 ## Visualizations & Insights
